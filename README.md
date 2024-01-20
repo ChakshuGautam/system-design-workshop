@@ -2,7 +2,7 @@ The design that every team builds can include the following documents as relevan
 
 # Documenting Design
 
-1. [System Architecture Diagrams](./docs/system-arch-diag.md): Visual representation of components, data flow, and interfaces.
+1. [System Architecture Diagrams](./docs/system-arch-diag.md) - Visual representation of components, data flow, and interfaces.
 
 2. [Data Flow Diagrams](./docs/data-flow-diag.md) - Illustrates how data moves through the system, showing inputs, outputs, and storage points.
 
