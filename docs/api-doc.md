@@ -3,11 +3,11 @@
 ## Purpose
 API Documentation is a critical component for any system that exposes APIs, ensuring that these APIs can be effectively and correctly used by developers.
 
-API Documentation are essential for conveying how to interact with the APIs within a system. Good documentation is crucial for usability, maintainability, and scalability of APIs. It guides developers on how to effectively use and integrate with the APIs.
+API Documentation is essential for conveying how to interact with the APIs within a system. Good documentation is crucial for usability, maintainability, and scalability of APIs. It guides developers on how to effectively use and integrate with the APIs.
 
 ## Key Elements to Include
 
-1. API Overvie - A brief description of what the API does and its primary use cases.
+1. API Overview - A brief description of what the API does and its primary use cases.
 
 2. Authentication and Authorization - Methods required for authenticating and authorizing API requests.
 
@@ -46,4 +46,5 @@ Information on the current API version and a log of changes in different version
 - **Feedback Loop**: Provide a way for users to give feedback or ask questions about the API.
 
 ## Examples for Reference
-- Well-documented APIs like Stripe, Twilio, or GitHub provide excellent real-world examples of effective API documentation.
+- [Stripe](https://stripe.com/docs/api)
+- [ODK Central - Not Swagger but still complete](https://docs.getodk.org/central-api/)
