@@ -41,6 +41,7 @@ Sequence Diagrams are used in system design to depict the sequence of messages e
 5. **Focus on Key Scenarios:** Rather than trying to capture all possible interactions, focus on the most critical or representative ones.
 
 ## Examples for Reference
-- Sequence diagrams illustrating common patterns like MVC architecture interactions, authentication flows, or database CRUD operations.
+- [Beckn Pulse Protocol](https://github.com/beckn/PULSE-Specification/blob/main/docs/example-implementations/Generic-ODR-workflow.md#beckn-protocol-api-workflow) using [Mermaid.js](https://mermaid.js.org/)
+- [UPI - see page 24](https://github.com/MobiowinMobiTech/windchimes/blob/master/Unified%20Payment%20Interface%20-%20API%20Technology%20Specifications%20V_1.2.3.pdf)
 
 Sequence Diagrams are particularly effective for analyzing and communicating the dynamic behavior of systems, especially in the context of object-oriented designs. They help in visualizing how different parts of the system interact with each other over time.
