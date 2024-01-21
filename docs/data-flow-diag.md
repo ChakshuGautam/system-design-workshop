@@ -42,8 +42,8 @@ Data Flow Diagrams (DFDs) are used to represent the flow of data within a system
 4. **Layered Approach**: For complex systems, use a layered approach – start with a general overview and then drill down into more detailed diagrams.
 5. **Review for Completeness**: Ensure all relevant data inputs and outputs are included and accurately represented.
 
-## Examples for Reference
+## Examples and Reference
 
-- Example DFDs of common systems like e-commerce platforms, content management systems, or inventory systems can provide a good starting point.
+- [DSEP](https://github.com/Samagra-Development/dsep/blob/master/docs/Arch.png)
 
 Data Flow Diagrams are instrumental in understanding how data is handled, which is crucial for many aspects of system design, including performance, scalability, and security.
