@@ -37,6 +37,7 @@ System Architecture Diagrams are crucial for visually conveying the high-level s
 - **Annotations**: Briefly annotate complex or non-obvious components and interactions.
 - **Version Control**: Keep track of revisions and updates to the diagram.
 
-## Examples for Reference
-- Diagrams from well-known systems (e.g., Amazon Web Services, Google Cloud Platform) can serve as good references.
-- Look for case studies or technical blogs from companies known for their robust system architectures.
+## Resources and References
+- [Software architecture diagramming and patterns](https://www.educative.io/blog/software-architecture-diagramming-and-patterns)
+- See Excalidraw examples in [this GitHub Collection of designs](https://github.com/karanpratapsingh/system-design#url-shortener)
+- [More Examples](https://github.com/donnemartin/system-design-primer#real-world-architectures)
